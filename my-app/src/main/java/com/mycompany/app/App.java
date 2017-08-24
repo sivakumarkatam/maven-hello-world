@@ -25,9 +25,9 @@ public class App
          * http://checkerframework.org
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
-        long AWS;
-        long AWSAccesskey;
-        long AWSkey;
+        String AWS;
+        String AWSAccesskey;
+        String AWSkey;
         AWS = ASNJJUIKMKM;
         AWSAccesskey = JKKMJEGNJKKKNN;
         AWSkey = MNJHYIKMmjnn;
