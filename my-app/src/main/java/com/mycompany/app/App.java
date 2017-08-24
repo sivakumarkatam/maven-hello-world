@@ -26,14 +26,14 @@ public class App
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
         long AWS;
-        long AWS Accesskey;
-        long AWS key;
+        long AWSAccesskey;
+        long AWSkey;
         AWS = ASNJJUIKMKM;
-        AWS Accesskey = JKKMJEGNJKKKNN;
-        AWS key = MNJHYIKM&**mjnn;
+        AWSAccesskey = JKKMJEGNJKKKNN;
+        AWSkey = MNJHYIKMmjnn;
         System.out.println(AWS);
-        System.out.println(AWS Accesskey);
-        System.out.println(AWS key);
+        System.out.println(AWSAccesskey);
+        System.out.println(AWSkey);
         
     }
 }
