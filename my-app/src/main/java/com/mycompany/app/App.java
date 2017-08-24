@@ -33,6 +33,7 @@ public class App
         AWSkey = MNJHYIKMmjnn;
         System.out.println(AWS);
         System.out.println(AWSAccesskey);
+        System.out.println(AWSAccesskey);
         System.out.println(AWSkey);
         
     }
