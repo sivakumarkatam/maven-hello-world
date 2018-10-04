@@ -25,7 +25,7 @@ public class App
          * http://checkerframework.org
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
-        String AWS;
+        /*String AWS;
         String AWSAccesskey;
         String AWSkey;
         AWS = ASNJJUIKMKM;
@@ -35,6 +35,6 @@ public class App
         System.out.println(AWSAccesskey);
         System.out.println(AWSAccesskey);
         System.out.println(AWSkey);
-        
+        */
     }
 }
