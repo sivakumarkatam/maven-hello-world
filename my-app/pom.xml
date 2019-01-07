@@ -119,7 +119,7 @@
                                 <timeoutSec>60</timeoutSec>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://52.76.108.178:8081/artifactory</contextUrl>
+                                <contextUrl>http://ArtifactServer_IP:8081/artifactory</contextUrl>
                                 <username>${username}</username>
                                 <password>${password}</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
